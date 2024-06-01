@@ -3,6 +3,5 @@ ______________
 ### PushBuildsWithButler.py
 Script for publishing project builds on itch.io. Supports Windows, Linux and Web builds
 
-
 ### DeployCMakeBuilds.py
-Этот скрипт собирает сборки проектов на CMake в архивы в папку Deploy. Номера версий берутся из CMakeLists.txt
+This script collects CMake project builds into archives in the Deploy folder. Version numbers are taken from CMakeLists.txt
